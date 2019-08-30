@@ -1,0 +1,1 @@
+* Copy cookies of current address to another address
