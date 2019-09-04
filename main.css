@@ -16,6 +16,7 @@ body {
   background: #d4d4ff;
   text-align: center;
   color: #70859F;
+  cursor: pointer;
 }
 input {
   width: 80%;
